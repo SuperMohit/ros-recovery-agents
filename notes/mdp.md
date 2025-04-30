@@ -1,6 +1,6 @@
-I'll update the Multi-Agent Maintenance Robot MDP to incorporate these specific fault types. Let me refine the mathematical formulation and the Python implementation.
 
-## Updated Mathematical MDP Definition with Realistic Fault Types
+
+## MDP Definition with Realistic Fault Types
 
 ### State Space (S)
 Let's extend our state space to include more detailed fault information:
